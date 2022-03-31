@@ -1,0 +1,66 @@
+Information:
+	number of points is 250
+	source file path: ./data/dsjc250.5.col
+	output file path: ./output/output_color30.txt
+	number of edges: 15668
+	number of colors: 30
+	number of max iteration: 1000000
+Random seed is 1647427201
+Init: number of conflicts is 565
+iteration 0: number of conflicts is 550
+iteration 10000: number of conflicts is 4
+iteration 20000: number of conflicts is 5
+iteration 30000: number of conflicts is 4
+iteration 40000: number of conflicts is 5
+iteration 50000: number of conflicts is 7
+iteration 60000: number of conflicts is 6
+iteration 70000: number of conflicts is 5
+iteration 80000: number of conflicts is 3
+iteration 90000: number of conflicts is 3
+iteration 100000: number of conflicts is 4
+iteration 110000: number of conflicts is 4
+iteration 120000: number of conflicts is 4
+iteration 130000: number of conflicts is 4
+iteration 140000: number of conflicts is 3
+iteration 150000: number of conflicts is 3
+iteration 160000: number of conflicts is 5
+iteration 170000: number of conflicts is 6
+iteration 180000: number of conflicts is 6
+iteration 190000: number of conflicts is 8
+iteration 200000: number of conflicts is 4
+iteration 210000: number of conflicts is 6
+iteration 220000: number of conflicts is 5
+iteration 230000: number of conflicts is 4
+iteration 240000: number of conflicts is 4
+iteration 250000: number of conflicts is 5
+iteration 260000: number of conflicts is 4
+iteration 270000: number of conflicts is 4
+iteration 280000: number of conflicts is 3
+iteration 290000: number of conflicts is 3
+iteration 300000: number of conflicts is 5
+iteration 310000: number of conflicts is 5
+iteration 320000: number of conflicts is 4
+iteration 330000: number of conflicts is 3
+iteration 340000: number of conflicts is 3
+iteration 350000: number of conflicts is 3
+iteration 360000: number of conflicts is 2
+iteration 370000: number of conflicts is 3
+iteration 380000: number of conflicts is 3
+iteration 390000: number of conflicts is 4
+iteration 400000: number of conflicts is 4
+iteration 410000: number of conflicts is 3
+iteration 420000: number of conflicts is 2
+iteration 430000: number of conflicts is 2
+iteration 440000: number of conflicts is 3
+iteration 450000: number of conflicts is 2
+iteration 460000: number of conflicts is 3
+iteration 470000: number of conflicts is 2
+iteration 480000: number of conflicts is 2
+iteration 490000: number of conflicts is 2
+iteration 500000: number of conflicts is 3
+iteration 510000: number of conflicts is 2
+iteration 520000: number of conflicts is 2
+iteration 530000: number of conflicts is 2
+iteration 534936: number of conflicts is 0
+solution: 25 29 8 24 14 0 0 13 25 27 0 4 11 7 3 17 20 26 13 0 24 8 10 15 18 7 7 14 5 1 3 5 10 18 21 23 3 10 6 2 20 28 15 12 17 6 12 12 22 19 22 0 29 1 12 13 10 5 23 27 21 17 13 26 11 28 16 19 5 20 6 4 24 21 5 27 25 28 5 25 23 13 0 6 27 20 23 20 1 18 6 9 16 14 10 11 29 19 19 19 8 6 7 8 17 25 24 15 11 17 15 9 12 24 8 6 15 22 3 27 8 14 21 17 13 2 14 29 1 7 0 3 29 22 7 16 7 10 19 25 14 29 20 8 26 10 18 18 17 22 1 26 18 25 20 12 11 1 28 18 6 14 16 23 28 16 23 16 23 7 18 8 2 3 10 17 17 11 9 3 21 24 7 24 2 11 4 27 15 6 26 9 9 26 25 22 4 3 24 7 14 4 26 2 12 28 23 14 13 29 2 21 15 1 13 5 4 21 1 2 4 19 10 2 16 4 8 15 5 23 9 16 0 9 9 20 16 27 22 28 29 2 21 25 19 29 20 26 12 5 
+Time consuming: 114.668s

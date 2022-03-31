@@ -1,0 +1,16 @@
+Information:
+	number of points is 250
+	source file path: ../data/dsjc250.5.col
+	output file path: ../output/color31.txt
+	number of edges: 15668
+	number of colors: 31
+	number of max iteration: 1000000
+Random seed is 1648627133
+Init: number of conflicts is 521
+iteration 0: number of conflicts is 510
+iteration 10000: number of conflicts is 3
+iteration 20000: number of conflicts is 2
+iteration 30000: number of conflicts is 2
+iteration 31155: number of conflicts is 0
+solution: 6 19 10 5 14 28 23 5 9 25 24 21 11 21 8 30 12 6 2 24 17 1 27 11 11 4 16 1 14 13 10 24 22 1 24 15 12 4 26 26 20 17 18 11 15 28 23 28 14 7 2 29 0 19 15 5 26 6 27 25 11 8 23 1 20 0 3 2 9 3 22 5 7 19 11 3 25 18 28 8 20 30 10 20 29 9 3 24 11 25 0 16 3 29 4 12 18 0 18 18 16 27 17 29 18 21 17 7 13 7 29 12 15 14 30 27 17 30 16 20 24 29 19 21 30 1 5 10 23 26 23 19 10 28 17 20 21 15 8 22 28 12 16 0 2 29 10 4 12 26 22 5 12 13 1 8 14 30 0 24 6 16 7 9 6 1 16 2 0 21 13 22 17 12 9 15 25 20 3 4 3 0 26 19 23 12 30 18 27 1 4 28 10 25 13 21 30 4 22 27 1 21 8 22 2 17 2 10 28 16 26 27 26 6 11 23 24 14 20 9 23 5 7 15 9 21 10 8 14 13 17 13 8 10 0 12 3 14 7 19 6 5 19 28 7 4 12 22 28 23 
+Time consuming: 8.348s
